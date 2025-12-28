@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-12-29T00:29:12.415815",
+  "total_files": 2,
+  "results": [
+    {
+      "dataset_id": "sample_R1",
+      "input_type": "FASTQ",
+      "file_path": "/home/balqees/Desktop/multi-omic-pipelines/rnav1/INGEST_PHASE/ingest_test_data/sample_R1.fastq",
+      "file_size": 1110,
+      "file_size_mb": 0.0010585784912109375,
+      "validation_status": "PASS",
+      "validation_message": "FASTQ validation successful",
+      "file_count": 1,
+      "sample_name": "sample_R1",
+      "is_paired_end": true,
+      "detected_format": "FASTQ (Paired-end)",
+      "total_reads": 5,
+      "sequence_length": 50,
+      "timestamp": "2025-12-29T00:29:12.414086"
+    },
+    {
+      "dataset_id": "sample_R2",
+      "input_type": "FASTQ",
+      "file_path": "/home/balqees/Desktop/multi-omic-pipelines/rnav1/INGEST_PHASE/ingest_test_data/sample_R2.fastq",
+      "file_size": 1110,
+      "file_size_mb": 0.0010585784912109375,
+      "validation_status": "PASS",
+      "validation_message": "FASTQ validation successful",
+      "file_count": 1,
+      "sample_name": "sample_R2",
+      "is_paired_end": true,
+      "detected_format": "FASTQ (Paired-end)",
+      "total_reads": 5,
+      "sequence_length": 50,
+      "timestamp": "2025-12-29T00:29:12.414860"
+    }
+  ]
+}
