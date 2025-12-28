@@ -1,22 +1,5 @@
-# rnaseq_v1
+# INGEST PHASE
 
-# Unified INGEST Phase - Single File Solution
-
-**Version 2.0 - Simplified with ingest.py**
-
----
-
-## 🎯 What's New
-
-The INGEST phase is now a **single Python file** (`ingest.py`) that combines:
-- ✅ Expert bioinformatics validation engine
-- ✅ Command-line interface
-- ✅ Report generation (HTML + JSON)
-- ✅ All input type support (FASTQ, BAM, CELL, Matrix)
-
-**No need for separate files anymore!**
-
----
 
 ## 🚀 Quick Start
 
